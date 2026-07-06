@@ -1,9 +1,9 @@
 # Project-EDGE
 Projeto de adaptação das regras de Cyberpunk RED com foco em simplificação mecânica, acessibilidade e melhoria da experiência do jogador
-#LICENSE
+# LICENSE
     CC BY-NC-SA 4.0
 
-#DISCLAIMER
+# DISCLAIMER
     Project EDGE é uma adaptação não oficial de Cyberpunk RED.
 
     Cyberpunk RED © R. Talsorian Games.
